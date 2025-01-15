@@ -19,4 +19,4 @@ For more information, visit our official website: [ftc19666.org](https://www.ftc
 If you have any questions or would like to collaborate with us, feel free to reach out!
 
 - Website: [https://www.ftc19666.org](https://www.ftc19666.org/) 🌐
-- Email: [contact@ftc19666.org](mailto:contact@ftc19666.org) 📧
+- Email: [info@ftc19666.org](mailto:info@ftc19666.org) 📧
